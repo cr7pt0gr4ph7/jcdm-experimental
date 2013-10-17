@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: docs
 title: Home
-permalink: /wiki
+prev_section: Home
+next_section: Home
+permalink: /wiki/home/
 ---
-
 
 Welcome to the jcdm-experimental wiki!
